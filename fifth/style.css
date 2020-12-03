@@ -1,0 +1,8 @@
+body {
+  box-sizing: border-box;
+  text-align: center;
+}
+.bar {
+  fill: blue;
+  background-color: antiquewhite;
+}
